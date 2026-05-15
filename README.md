@@ -80,7 +80,6 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
     </td> </tr> 
   </table> 
   </div>
----
 
 ## ✍️ Random Dev Quote
 
