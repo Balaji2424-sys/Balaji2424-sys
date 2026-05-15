@@ -64,59 +64,50 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
 <div align="center">
 
 <p align="center">
-  <!-- GitHub Activity Graph -->
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji2424-sys&theme=react-dark&bg_color=0d1117&color=7A3FF7&line=7A3FF7&point=ffffff&hide_border=true" 
     width="96%" 
-    alt="Balaji's GitHub Activity Graph"
+    alt="Balaji's Contribution Graph"
   />
 </p>
 
-<table align="center" cellspacing="0" cellpadding="0" style="border:none;">
-  <tr>
+<table align="center">
+<tr>
 
-    <!-- LEFT COLUMN -->
-    <td align="center" valign="top" style="border:none;padding:0;margin:0;">
+<td align="center" valign="top">
 
-      <!-- STREAK STATS -->
-      <img 
-        src="https://streak-stats.demolab.com?user=Balaji2424-sys&theme=react&hide_border=true&background=0D1117&ring=7A3FF7&fire=7A3FF7&currStreakLabel=7A3FF7" 
-        width="500" 
-        alt="Balaji's GitHub Streak"
-      />
+<img 
+  src="https://streak-stats.demolab.com?user=Balaji2424-sys&theme=react&hide_border=true&background=0D1117&ring=7A3FF7&fire=7A3FF7&currStreakLabel=7A3FF7" 
+  width="500" 
+  alt="GitHub Streak"
+/>
 
-      <br><br><br>
+<br><br>
 
-      <!-- PROFILE VIEWS -->
-      <b>⏳ Profile Views Counter</b>
+<b>⏳ Profile Views Counter</b>
 
-      <br><br>
+<br><br>
 
-      <img 
-        src="https://komarev.com/ghpvc/?username=Balaji2424-sys&color=blueviolet&style=for-the-badge" 
-        width="220" 
-        alt="Profile Views"
-      />
+<img 
+  src="https://komarev.com/ghpvc/?username=Balaji2424-sys&color=blueviolet&style=for-the-badge" 
+  width="220" 
+  alt="Profile Views"
+/>
 
-    </td>
+</td>
 
-    <!-- RIGHT COLUMN -->
-    <td align="center" valign="top" style="border:none;padding:0;margin:0;">
+<td align="center" valign="top">
 
-      <!-- TOP LANGUAGES -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2424-sys&layout=pie&theme=react&bg_color=0d1117&hide_border=true&title_color=7A3FF7&text_color=c9d1d9&langs_count=8" 
-        width="320" 
-        alt="Balaji's Top Languages"
-      />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2424-sys&layout=pie&theme=react&bg_color=0d1117&hide_border=true&title_color=7A3FF7&text_color=c9d1d9&langs_count=8" 
+  width="320" 
+  alt="Top Languages"
+/>
 
-    </td>
+</td>
 
-  </tr>
+</tr>
 </table>
-
-<br>
-<br>
 
 </div>
 
