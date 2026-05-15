@@ -99,7 +99,7 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
 <td align="center" valign="top">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2424-sys&layout=pie&theme=react&bg_color=0d1117&hide_border=true&title_color=7A3FF7&text_color=c9d1d9&langs_count=8" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Balaji2424-sys&layout=pie&theme=tokyonight&hide_border=true" 
   width="320" 
   alt="Top Languages"
 />
@@ -114,7 +114,3 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://komarev.com/ghpvc/?username=Balaji2424-sys&icon=3&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
