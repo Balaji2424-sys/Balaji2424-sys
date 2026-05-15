@@ -69,23 +69,24 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji2424-sys&theme=react-dark&bg_color=0d1117&color=7A3FF7&line=7A3FF7&point=ffffff&hide_border=true" 
-    width="96%" 
+    width="97%" 
     alt="Balaji's Contribution Graph"
   />
 </p>
 
-<table align="center">
+<table align="center" width="97%">
 <tr>
 
-<td align="center" valign="top">
+<!-- LEFT SECTION -->
+<td align="center" valign="top" width="62%">
 
 <img 
   src="https://streak-stats.demolab.com?user=Balaji2424-sys&theme=react&hide_border=true&background=0D1117&ring=7A3FF7&fire=7A3FF7&currStreakLabel=7A3FF7" 
-  width="500" 
+  width="100%" 
   alt="GitHub Streak"
 />
 
-<br><br>
+<br>
 
 <b>⏳ Profile Views Counter</b>
 
@@ -93,17 +94,18 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
 
 <img 
   src="https://komarev.com/ghpvc/?username=Balaji2424-sys&color=blueviolet&style=for-the-badge" 
-  width="220" 
+  height="34"
   alt="Profile Views"
 />
 
 </td>
 
-<td align="center" valign="top">
+<!-- RIGHT SECTION -->
+<td align="center" valign="top" width="38%">
 
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Balaji2424-sys&layout=pie&theme=tokyonight&hide_border=true" 
-  width="320" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2424-sys&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=7A3FF7&text_color=c9d1d9" 
+  width="100%" 
   alt="Top Languages"
 />
 
@@ -114,6 +116,15 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
 
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+<img 
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" 
+  width="97%"
+/>
+
+</div>
