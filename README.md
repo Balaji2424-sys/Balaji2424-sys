@@ -104,7 +104,7 @@ Hey Hi! I’m Balaji - an AI & Data Science student who loves building things ar
 <td align="center" valign="top" width="38%">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2424-sys&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=7A3FF7&text_color=c9d1d9" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji2424-sys&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7A3FF7&text_color=c9d1d9&cache_seconds=1800" 
   width="100%" 
   alt="Top Languages"
 />
