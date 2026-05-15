@@ -1,7 +1,10 @@
 # 💫 About Me:
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=7A3FF7&center=true&vCenter=true&width=600&lines=Based+in+%E2%9C%8C%EF%B8%8F+Chennai;AI+%26+Data+Science+Student+(2024%E2%80%932028);Passionate+About+Coding;Gamer+%7C+Sports+Enthusiast" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=700&color=7A3FF7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+Developer+%7C+ML+Enthusiast;Building+GIS+Dashboards+%26+AI-Powered+Systems;Exploring+LLMs%2C+Automation+%26+Real-Time+Applications;Tech+Organizer+%7C+Department+Secretary+%7C+Event+Coordinator;Passionate+About+Innovation%2C+Leadership+%26+Problem+Solving;Based+in+Chennai+%E2%9C%8C%EF%B8%8F" 
+    alt="Typing SVG" 
+  />
 </p>
 
 Hey Hi! I’m Balaji - an AI & Data Science student who loves building things around AI, GIS, sustainability, automation, and real-world problem solving. I enjoy experimenting with ideas ranging from Deep Learning and geospatial dashboards to full-stack applications and intelligent systems. Apart from tech, I’m also deeply involved in hackathons, organizing events, coordinating teams, and learning through hands-on projects. Mostly, I just enjoy exploring how technology can create meaningful and practical impact.
